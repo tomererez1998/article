@@ -1,0 +1,1047 @@
+Educational Reform, Ability, and Family Background
+By COSTAS MEGHIR AND MÅRTEN PALME*
+In the period between 1950 and the mid1970s many European countries carried out
+major educational reforms that resulted in
+increases in the number of compulsory years of
+education, in the introduction of national curricula, and in the abolition, or delay, of the
+placement of more able students into separate
+schools at an early age (streaming). Examples
+of such countries are the United Kingdom,
+France, and the Scandinavian countries.1 Generally, it is very difficult to evaluate the impact
+of such reforms, because they are implemented
+nationwide simultaneously and thus evaluations
+have to rely on before-and-after comparisons
+which may confound the effects of the policy
+with other macro-aggregate or cohort effects.2
+In Sweden, major educational reform was
+designed in the late 1940s. The main elements
+of this reform were to (a) increase compulsory
+
+schooling to nine years from seven or eight
+years; (b) abolish placement based on academic
+achievement into an academic or nonacademic
+stream after grade six, i.e., at age 12 or 13; and
+(c) impose a nationally unified curriculum. An
+attractive feature of this reform is that it was
+preceded by a social experiment, albeit not randomized, where school reform was implemented gradually across municipalities. This
+permits an evaluation approach similar to those
+that have been used in a number of U.S. studies,
+which have examined the cross-state and crosstime variation in compulsory schooling laws
+and child labor laws to estimate their impact on
+educational attainment or to estimate the returns
+from education.3
+In this study we evaluate the effect of the
+reform on final educational attainment and earnings. We have survey data on two cohorts of
+pupils: those born in 1948 and those born in
+1953. For a substantial portion of the municipalities, these two cohorts were assigned to different school systems: the 1948 cohort to the old
+system and the 1953 cohort to the new one. In
+some municipalities, however, both cohorts
+were assigned to the old system, while in others
+both cohorts were assigned to the new, reformed system. This allows us to evaluate the
+reform using a differences-in-differences methodology, comparing outcomes across cohorts
+and municipalities. The data for the two cohorts
+contain information on parental background, IQ
+test scores, and achievement in school (grades
+by subject) in grade six. Educational attainment
+and earnings are merged into the original survey
+data from the national education register and the
+1985–1996 tax records, respectively.
+The distinctive feature of this policy experiment, combined with the data, is the ability to
+compare individuals working in the same labor
+
+* Meghir: Institute for Fiscal Studies and Department of
+Economics, University College London, Gower Street, London WC1E 6BT, UK (e-mail: C.Meghir@ucl.ac.uk); Palme:
+Department of Economics, Stockholm University, SE-106
+91 Stockholm, Sweden and Växjö University (e-mail:
+Marten.Palme@ne.su.se). We thank two anonymous referees, the co-editor David Card, Jerome Adda, Josh Angrist,
+Orazio Attanasio, Anders Björklund, Richard Blundell, Lorraine Dearden, Christian Dustmann, Jim Heckman, Guido
+Imbens, Jan O. Jonsson, Mac Murray, Lars-Erik Öller, Per
+Pettersson Lidbom, Emma Rothschild, Barbara Sianesi,
+Chris Taber, Frank Vella, and Ed Vytlacil, as well as participants in the Conference on Evaluation of Education
+Policies at the Hebrew University and in seminars at Bergen
+University, the University of Chicago, Columbia University, Princeton University, Umeå University, Uppsala University, the Tinbergen Institute in Amsterdam, the Trade
+Unions Institute for Economic Research in Stockholm, and
+IIES at Stockholm University for comments and suggestions. Finally, we would like to thank the Department of
+Education, University of Gothenburg, for letting us use their
+data. Mårten Palme acknowledges financial support from
+the Swedish Council for Social Research. Costas Meghir
+acknowledges financial support from the ESRC via the CFP
+at the IFS and from the Centre for the Economics of Education funded by the DfEE. The usual disclaimer applies.
+1
+See, e.g., Achim Leschinsky and Karl Ulrich Mayer
+(1990) for an overview.
+2
+See Colm Harmon and Ian Walker (1995).
+
+3
+For the former, see, e.g., Robert Margo and Aldrich
+Finegan (1996). For the latter, see Joshua Angrist and Alan
+Krueger (1991); the survey in David Card (1999, 2001); and
+Daron Acemoglu and Angrist (2001).
+
+414
+
+VOL. 95 NO. 1
+
+MEGHIR AND PALME: EDUCATIONAL REFORM, ABILITY, AND FAMILY BACKGROUND
+
+market at the same point in time who attended
+two different school systems. In addition, we
+are able to look at heterogeneous impacts of
+parental background and ability. In general, low
+education of parents tends to be associated with
+low educational outcomes of their children, 4
+possibly because of liquidity or information
+constraints or lower investments early in life.
+Our data allow us to estimate the extent to
+which the reform benefited those with unskilled
+parents and to see the extent to which such
+effects differ by ability. Thus our analysis
+relates directly to key issues of policy as
+expressed in James Heckman (2000) and Heckman and Alan Krueger (2004).
+I. The 1950 Education Reform and the Social
+Experiment
+
+In the pre-reform school system, pupils attended a basic compulsory school (folkskolan)
+until the sixth grade. Starting in seventh grade,
+students with better marks were selected for the
+junior secondary school (realscolan). Those
+who were not admitted continued one or two
+years in basic compulsory school and thereafter
+could continue in full-time vocational education.5 Compulsory schooling lasted seven years;
+in some municipalities, mainly in city communities, it lasted eight years. The junior secondary
+school was a prerequisite for the upper secondary school, which, in turn, was a prerequisite for
+higher education.
+In 1948, a parliamentary committee proposed
+to replace the compulsory and selective junior
+secondary school with a nine-year compulsory
+comprehensive school. The students would be
+able to choose between three different routes
+after sixth grade: one with a more academic
+curriculum, one general level, and one level that
+included vocational training. There would be no
+selection based on grades, however, and all
+pupils would attend the same schools under the
+
+4
+
+See, for example, Lorraine Dearden et al. (2002).
+There was also a second chance of entering junior
+secondary school after completing basic compulsory education. Pupils admitted to junior secondary at this later point
+would, however, have to begin at the start of junior secondary, leading to a one- or two-year delay relative to the others
+of the same cohort who were admitted in the first round.
+5
+
+415
+
+new system. Finally, all schools would have the
+same national curriculum.6
+The proposals led to a nationwide evaluation
+between 1949 and 1962, when it was decided to
+implement the new school system nationally.7
+In the experiment, the proposed comprehensive
+school was introduced by areas, i.e., entire rural
+municipalities or parts of city communities,
+rather than by separate schools or classes. When
+the experiment started, Sweden was divided
+into about 2,500 city communities and rural
+municipalities. The number of municipalities
+was reduced to 1,037, however, in a reform of
+the municipality system in 1952, which is the
+municipal division that we use in our empirical
+analysis.
+The municipalities that would implement the
+new system were not chosen randomly. The
+National School Board, which administered the
+experiment, chose them from a group of applicants to form a representative set based on municipality characteristics (see Sixten Marklund,
+1981, Ch. 2). The final decision on assignment
+was made by the municipality council. A
+means-tested stipend was also introduced in
+1953 in the reform areas to ease the perceived
+financial burden of extending the years of
+schooling.
+New municipalities were added every year.
+Students who started in the old system stayed in
+that system. In 1961, at the time when the data
+for the first cohort were collected (those born in
+1948), about 25 percent of the municipalities
+were assigned to the new system. The national
+implementation took place in 1962 but the cohort from which the new school system was
+implemented varied between municipalities.
+Some implemented the new system for all cohorts up to those who were in fifth grade at the
+time. Others, however, implemented it starting
+only with the cohort of pupils who were in first
+grade in 1962. This implies that in 1966, when
+the data for the second cohort (born in 1953)
+
+6
+
+The reform is described in Sixten Marklund (1981) and
+Rolland Paulston (1968). Marklund also offers a description
+of the social experiment preceding it.
+7
+The official evaluation (Försöksverksamhet med
+nioårig skolplikt, 1959) described in Marklund (1981) was
+mainly of an administrative nature. No educational or labor
+market outcomes have been considered before.
+
+416
+
+THE AMERICAN ECONOMIC REVIEW
+
+were obtained, about 30 percent of the municipalities maintained the pre-reform school system for those born in 1953. Thus, for both the
+1948 and the 1953 cohorts there are both treatment (reform) and comparison (old system)
+municipalities. Importantly, there is a large proportion of municipalities for which the 1948
+cohort attended the old system and the 1953
+cohort attended the new, reformed one.
+II. Data: Measurement and Sample Selection
+
+We use data from the 1948 and 1953 cohorts
+of the Individual Statistics (IS) project of the
+Institute for Education at the University of
+Gothenburg.8 The 1948 and 1953 cohort surveys were obtained in the spring of 1961 and
+1966, respectively, when the respondents were
+in the sixth grade of compulsory school. The
+same sampling strategy was used for both surveys, namely that all children born the fifth,
+fifteenth, or twenty-fifth day of each month
+were selected to be included in the sample. With
+a rate of nonresponse for the 1948 cohort survey
+of about 1.8 percent and for the 1953 cohort of
+7.4 percent, the final sample sizes were 11,950
+and 9,927, respectively, or about 10 percent of
+the entire cohorts.
+The original dataset includes information on
+the educational level of each student’s parents;
+results from three different IQ tests (number
+series, opposites, and a test of spatial IQ referred to as folding); administrative information
+on grades (Swedish, English, and mathematics);
+and type of school. Thus all measures of student
+ability were obtained in sixth grade. We use the
+test scores to construct ability indicators included in the empirical analysis. Information on
+final educational attainment was obtained from
+the 1990 Swedish education register.9 Finally,
+information on annual earnings and employ-
+
+8
+
+See Kjell Härnqvist (2000) for a detailed description of
+the project and the data.
+9
+We also summarize overall educational attainment using years of education. Since this is not observed directly we
+impute it by assigning years of education based on the
+Swedish Level of Living Survey to each of seven educational levels that we observe in the data.
+
+MARCH 2005
+
+ment status for each year from 1985 to 1996
+was obtained from the Swedish tax registers.10
+Sweden is divided administratively into 24
+counties, each of which contains a number of
+municipalities within commuting distance of
+each other. The counties are often used to define
+local labor markets (see, e.g., Olle Westerlund,
+1995). Importantly, all counties but one for the
+1948 cohort and all counties for the 1953 cohort
+had some reform and some non-reform municipalities or parts of city communities. The number of observations in the final sample was
+10,309 (5,235 men and 5,074 women) for the
+1948 cohort survey and 9,007 (4,525 men and
+4,482 women) for the 1953 cohort survey. For
+each we observe earnings for the entire 1985–
+1996 period, or a part thereof.
+III. Estimating the Impact of the Reform on
+Educational Qualifications and Earnings
+
+To evaluate the impact of the reform, we
+consider years of education, level of education
+as measured by two binary outcomes (whether
+the final completed level of education was the
+new compulsory level or any other, and whether
+the completed level of education was more than
+the new compulsory level or any other), and log
+annual earnings over the years 1985 to 1996.
+The reform was carried out in entire municipalities or communities within large cities. For
+the 1948 cohort, 35 percent of pupils were assigned to the new system throughout the country, based on where they lived when they were
+in sixth grade. The remaining pupils were assigned to the old system. In the case of the 1953
+cohort, 81 percent were assigned to the reformed system.
+The sample can thus be divided into the following groups: (a) municipalities or city communities in which the 1948 cohort was not
+assigned to the reform but the 1953 cohort was
+(these are the municipalities that switched); (b)
+municipalities in which both the 1948 and the
+1953 cohorts were assigned to the reform; (c)
+municipalities in which neither the 1948 nor the
+1953 cohort was assigned to the reform.
+
+10
+Details of the data can be found in Meghir and Palme
+(2003).
+
+VOL. 95 NO. 1
+
+MEGHIR AND PALME: EDUCATIONAL REFORM, ABILITY, AND FAMILY BACKGROUND
+
+We make the following assumption: in the
+absence of reform, the changes in the average
+outcomes11 between the 1948 and the 1953
+birth cohorts living in the municipalities that
+adopted the reform would have been the same
+as the changes for those living in the municipalities whose reform status remained the same
+for these two cohorts— conditional, that is, on
+observed characteristics. We also assume that
+municipalities did not change teaching methods
+or otherwise take preemptive action before they
+were assigned to the reformed system. Under
+these assumptions we can evaluate the impact of
+the reform using differences-in-differences (Orley Ashenfelter, 1978; Heckman and Richard
+Robb, 1985); that is, we compare the change in
+average outcomes between the 1948 and 1953
+cohorts for individuals living in the municipalities that switched when in sixth grade to the
+change in average outcomes for the same cohorts of individuals living in the municipalities
+that did not change status. As a robustness
+check we also estimate the impacts separately
+using as comparison groups either individuals
+living in municipalities that implemented the
+reform for both cohorts (group [b]) or individuals living in municipalities that kept the old
+system for both cohorts (group [c]).12
+The linear regression that implements the
+differences-in-differences estimator is
+(3.1)
+
+Y idm ⫽ b 0 ⫹ b 1 d i ⫹ b⬘2 m i
+⫹ ␣ridm ⫹ ␥⬘xidm ⫹ eidm
+
+where Yidm is the relevant outcome observed for
+individual i belonging to cohort d and municipality m, di is a dummy variable indicating the
+cohort to which the individual belongs, and mi
+is a set of dummy variables indicating the
+municipality in which individual i went to
+school;13 ridm is 1 for individuals belonging to a
+
+11
+
+Educational attainment and earnings.
+In a few municipalities, because of boundary changes,
+some individuals end up being assigned to the reform and
+others not. We retain these observations.
+13
+For pupils educated in Stockholm, Gothenburg, and
+Malmo, we are not able to include fixed effects for the
+particular community in which they live. However, we
+include dummies for each of these cities.
+12
+
+417
+
+cohort and municipality assigned to the reformed system. The parameter ␣ is the average
+effect of the reform for those assigned to it
+among the population from which the sample is
+drawn.14 The variables xidm reflect the observable characteristics of individual students. Finally eidm represents a random error term
+assumed uncorrelated with ridm conditional on
+the other regressors, i.e., we assume that
+E(eidm 兩ridm, di, mi, xidm) ⫽ E(eidm兩 di, mi, xidm).
+The additive municipality (m) and cohort effects (d) in (3.1), together with the stated properties of the error term, reflect the assumptions
+underlying the differences-in-differences approach, as stated above.
+For log earnings and years of education, we
+use ordinary least squares (OLS) on (3.1). For
+the discrete educational outcomes we use a probit model. This requires the additional assumption that eidm is normal conditional on ridm, di,
+mi, and xidm. However, a linear probability
+model gives almost identical results. In all cases
+the covariates x include indicators for test scores
+and school grades obtained when the pupils
+were in sixth grade and for the country of
+work.15 When we present results pooled across
+males and females we include a gender dummy
+on its own and interacted with all x’s. Since for
+each individual we have repeated earnings observations over the period 1985–1996, we also
+include time dummies for these years in the
+earnings regressions. Thus we effectively compare the earnings of individuals within the same
+local labor market and year.
+In computing the standard errors we allow for
+arbitrary municipality level spatial correlation
+and, in the case of earnings where we have
+multiple observations over time, for arbitrary
+serial correlation as well.16
+Table A1 in the Appendix presents descriptive statistics and reports the difference in some
+characteristics between individuals living in
+
+14
+So, for example, when we estimate using the pooled
+sample of males and females with unskilled fathers, the
+effect is the average effect over that population.
+15
+The test scores include three IQ tests as shown in
+Table A1 in the Appendix, and student grades in Swedish,
+English, and mathematics.
+16
+See Brent Moulton (1986) for the importance of controlling for cluster effects.
+
+418
+
+THE AMERICAN ECONOMIC REVIEW
+
+switching and nonswitching municipalities.
+These differences are not significant, implying
+there would be no bias if we excluded these
+covariates from the regression. We still include
+the covariates, however, to improve estimated
+precision, because they are highly correlated
+with both educational attainment and earnings.
+A reform of this magnitude may have had
+aggregate effects on the labor market, including
+on the price of labor. However, since we compare workers within the same labor markets our
+estimates do not include such effects.17 They
+reflect the relative merits of the two school
+systems given the overall macroeconomic
+conditions.
+IV. Results
+
+A. The Effect of the Reform on Education
+The estimates of the impact of the reform on
+education are shown in Table 1. These are presented for the whole sample and by gender. We
+also break them down by father’s education
+(low and high)18 and ability (low and high).19
+We refer to fathers with low education as unskilled fathers. For years of education we report
+the OLS estimate of ␣ from equation (3.1)
+which represents the effect of the reform measured in years of education. For the educational
+levels the estimates are the marginal effects of
+the reform from a probit model, based on (3.1),
+multiplied by 100 to transform them to percentage point effects on the probability of attaining
+the level in question.
+The average effect of the reform for men and
+women was to increase the proportion attending
+through to the new compulsory level by 8.5
+percentage points, and beyond that level by 2.6
+percentage points, showing that the reform had
+17
+
+See Kevin Lang and David Kropp (1986).
+We classify as unskilled or low-education fathers both
+those who received just the statutory level of education and
+those whose educational classification is missing from the
+data.
+19
+To define the ability groups we take the average IQ
+score across three different IQ tests for each person and
+classify individuals with scores above the sample median as
+high ability. For the cases where we do not have IQ test
+scores we base our classification on average school grade at
+the same age.
+18
+
+MARCH 2005
+
+an impact beyond the new compulsory level;
+this is consistent with the aim of the reform to
+improve access to higher levels of education.
+All changes in educational attainment taken
+together translate into an increase in years of
+education by 0.298 of a year. These effects are
+highly significant. The entire effect is due to the
+increase in the educational attainment of those
+with unskilled fathers (column 2). Within that
+group, those with low ability increased their
+attainment by moving up to the new compulsory level with an almost equal drop in the
+proportion attending the former compulsory
+level. For those of higher ability, however, the
+increase in attainment is reinforced by a large
+increase beyond the new compulsory level (column 4). Thus it seems that the measures for
+improving access beyond the new compulsory
+level had an important impact for the more able
+students with unskilled fathers.
+Table 1 also breaks down the effect by men
+and women. The main difference revealed here
+is that the increase beyond the new compulsory
+level is stronger for women.
+B. The Effect of the Reform on Earnings
+We estimate the impact of the reform on
+average annual log-pre-tax earnings for both
+men and women, with positive earnings for all
+or part of the years in the 1985–1996 period for
+which earnings are observed.20 We report the
+OLS estimate of ␣ from equation (3.1) multiplied by 100, so that the reported effects can be
+interpreted as the percent effects on earnings
+averaged over the observation period. The results are shown in Table 2.
+The overall effect of the reform on earnings
+at 1.42 percent was small and only significant at
+the 10.9-percent level. However, this conceals
+substantial heterogeneity in the effects for different groups of individuals. For those with
+unskilled fathers the reform increased earnings
+by 3.4 percent, which is highly significant. In
+terms of the point estimates, the effect is larger
+for the high-ability individuals but the difference is not significant. The difference between
+
+20
+There was no effect of the reform on the proportion of
+individuals with positive earnings.
+
+VOL. 95 NO. 1
+
+MEGHIR AND PALME: EDUCATIONAL REFORM, ABILITY, AND FAMILY BACKGROUND
+
+419
+
+TABLE 1—THE IMPACT OF THE REFORM ON EDUCATIONAL ATTAINMENT
+
+Father’s educationa
+Abilityb
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+All
+All
+
+Low
+All
+
+Low
+Low
+
+Low
+High
+
+High
+All
+
+Men and women
+c
+
+Change in percent attending:
+Comprehensive/junior secondary
+
+8.54
+(1.67)
+2.61
+(1.14)
+0.298
+(0.075)
+
+10.31
+(2.13)
+3.26
+(1.42)
+0.405
+(0.070)
+
+17.50
+(2.60)
+1.29
+(1.99)
+0.467
+(0.098)
+
+1.97
+(2.66)
+7.35
+(2.73)
+0.355
+(0.095)
+
+2.15
+(1.25)
+⫺1.23
+(1.44)
+⫺0.130
+(0.124)
+
+Years of education in non-reform areas
+
+11.19
+(0.032)
+
+10.78
+(0.033)
+
+9.89
+(0.036)
+
+11.93
+(0.055)
+
+13.69
+(0.085)
+
+Sample size
+
+19,316
+
+15,989
+
+8,633
+
+7,356
+
+3,327
+
+9.84
+(2.35)
+0.76
+(2.17)
+0.252
+(0.081)
+
+12.22
+(2.96)
+1.15
+(2.63)
+0.300
+(0.093)
+
+18.57
+(3.86)
+⫺0.20
+(3.20)
+0.450
+(0.105)
+
+4.78
+(3.92)
+4.04
+(3.75)
+0.104
+(0.155)
+
+2.06
+(1.58)
+⫺1.46
+(1.68)
+0.092
+(0.174)
+
+9,760
+
+8,084
+
+4,260
+
+3,824
+
+1,676
+
+7.46
+(1.85)
+4.65
+(1.85)
+0.339
+(0.105)
+
+8.99
+(2.48)
+5.75
+(2.15)
+0.512
+(0.087)
+
+18.18
+(2.92)
+2.04
+(3.26)
+0.479
+(0.140)
+
+⫺1.26
+(4.40)
+8.59
+(4.06)
+0.585
+(0.127)
+
+3.20
+(2.52)
+⫺2.00
+(2.70)
+⫺0.415
+(0.193)
+
+9,556
+
+7,905
+
+4,373
+
+3,532
+
+1,651
+
+More than comprehensive/junior secondary
+Change in years of education
+
+Men
+Change in percent attending:c
+Comprehensive/junior secondary
+More than comprehensive/junior secondary
+Change in years of education
+Sample size
+
+Women
+Change in percent attending:c
+Comprehensive/junior secondary
+More than comprehensive/junior secondary
+Change in years of education
+Sample size
+
+Notes: Asymptotic standard errors in parentheses allowing for clustering by municipality.
+a
+Low father’s education: the father had just compulsory schooling of his time or father’s education was missing.
+b
+High ability: individual IQ score above median.
+c
+This is measured in percentage points.
+
+the two ability groups, however, is high for
+women and has a p-value of 5 percent; this is
+consistent with the fact that the reform had a
+greater effect on educational attainment for
+higher-ability women than men of the corresponding group, but about the same for lowability men and women.
+One of the striking results (which explains
+the small overall effect) is the negative impact
+(⫺5.6 percent) on the earnings of individuals
+with skilled fathers, who constitute 17 percent
+
+of the population. This is true for both males
+and females, despite the fact that there is no
+significant change in educational attainment for
+the group. These individuals used to attend primarily the academic junior secondary school,
+which selected students on the basis of level of
+attainment in sixth grade. The reform abolished
+this selection and it seems that this reduced the
+quality of education and ultimately the earnings
+of this group.
+Finally, since both the amount of education
+
+420
+
+THE AMERICAN ECONOMIC REVIEW
+
+TABLE 2—THE IMPACT OF THE REFORM ON EARNINGS
+Differences-in-differences
+Males and
+females
+
+Males
+
+Females
+
+All
+
+1.42
+(0.89)
+
+0.88
+(1.37)
+
+2.11
+(1.24)
+
+Low father’s education
+All abilities pooled
+
+3.36
+(0.91)
+
+3.06
+(1.36)
+
+3.79
+(1.30)
+
+Low father’s education
+Low ability
+
+2.62
+(1.28)
+
+3.23
+(2.03)
+
+1.66
+(1.59)
+
+Low father’s education
+High ability
+
+4.53
+(1.27)
+
+2.97
+(1.87)
+
+6.71
+(2.02)
+
+High father’s education
+All abilities pooled
+
+⫺5.59
+(1.88)
+
+⫺7.66
+(3.12)
+
+⫺4.22
+(2.72)
+
+Notes: Standard errors in round brackets allowing for clustering by municipality, thus also allowing for arbitrary serial
+correlation. Coefficients are interpreted as percentage effects on annual earnings.
+
+and the quality/type of education changed for
+individuals of all abilities among those with
+unskilled fathers, it is not possible to say which
+aspect of the reform led to the earnings gains. If
+all the earnings changes were due to changes in
+the quantity of education, this would correspond
+to a return to education of 5.6 percent for the
+low-ability individuals and 12.8 percent for the
+high-ability ones (8.4 percent overall); if one
+accepts that the other changes enhanced earnings for this group by improving the quality of
+education, these will be upper bounds to the
+effects of education on earnings. As a benchmark for the magnitude of these effects, note
+that Anders Björklund (2000) estimated the
+wage premium per additional year of education
+to be 4.6 percent for Sweden.
+When we break down the effects by gender
+we note that the effects for individuals with
+unskilled fathers are higher for women than
+men, but both are significant. For men we cannot
+distinguish much of a difference between those of
+high and low ability; however, for high-ability
+women the effect is larger than for lower-ability
+women, and the difference is significant.21
+
+21
+The presence of municipality cluster effects implies
+that the estimates are correlated across subsamples. We used
+
+MARCH 2005
+
+Did the reform affect earnings growth or was
+the effect uniform over the life cycle? Figure 1 shows log real earnings over time for all
+males and females whose fathers have a low
+level of education. In the left-hand panel we
+present the log earnings for those born in 1948
+for the years 1985–1996. We have split the
+sample depending on which type of municipality individuals live in: the line with circles relates to those living in municipalities that had
+not implemented the reform and will still not
+implement it for the 1953 cohort (the never
+treated). The line with squares relates to those
+living in municipalities that had already implemented the reform for the 1948 cohort and also
+for the 1953 cohort (the always treated). Finally
+the line with triangles relates to those living
+in municipalities that had not implemented
+the reform for the 1948 cohort but did implement it for the 1953 cohort (the switching
+municipalities).
+Comparing the never treated graph to the one
+for the switchers we can see that there are no
+significant systematic differences between the
+two groups for the 1948 cohort. We expect the
+graph for the always treated to be higher since
+this reflects the effect of the reform. The graph
+for the switching municipalities, relative to the
+never treated once the reform is implemented
+for the 1953 cohort, reflects the impact of the
+reform. This is shown in the right-hand panel
+where the earnings for the 1953 cohort are indicated. The graph for those in the switching
+municipalities has now moved up and overlaps
+with that for those in the always treated group,
+reflecting the impact of the reform. The graph
+seems also to suggest that the reform had a
+positive effect on earnings growth; however, we
+find this difference to be insignificant once we
+apply the differences-in-differences estimator
+for growth of earnings over time.
+Sensitivity Analysis.—In Table 3 we present
+the results of some sensitivity analyses to demonstrate the robustness of the results. For the sake of
+brevity we present only the average effects across
+males and females split by father’s education,
+
+the block bootstrap and obtained a p-value for the difference
+of zero.
+
+VOL. 95 NO. 1
+
+MEGHIR AND PALME: EDUCATIONAL REFORM, ABILITY, AND FAMILY BACKGROUND
+
+421
+
+FIGURE 1. AVERAGE LOG EARNINGS FOR THE 1948 AND 1953 COHORTS BY REFORM STATUS AND YEAR
+
+TABLE 3—RESULTS FROM SENSITIVITY ANALYSIS ON THE IMPACT OF THE REFORM ON EARNINGS
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+Males and femalesa
+Alternative comparison groups
+
+Impact of mobility
+
+Reform for
+both cohorts
+
+Non-reform for
+both cohorts
+
+Excluding Stockholm,
+Gothenburg, and Malmo
+
+Excluding
+moversb
+
+IVc
+
+Low father’s education
+All abilities pooled
+
+3.29
+(0.96)
+
+3.14
+(0.94)
+
+3.77
+(1.18)
+
+3.25
+(0.94)
+
+4.20
+(2.67)
+
+High father’s education
+All abilities pooled
+
+⫺6.25
+(1.88)
+
+⫺6.43
+(2.05)
+
+⫺4.11
+(3.05)
+
+⫺4.40
+(2.15)
+
+⫺17.52
+(12.79)
+
+a
+b
+c
+
+Asymptotic standard errors allowing for clustering by municipality in parentheses.
+We exclude those who as a result of a move changed reform status from that implied by the municipality of birth.
+In IV we instrument actual reform status using the status predicted by the municipality of birth.
+
+which seems to be the most important source of
+heterogeneity for the impact on earnings.
+We reestimated the model using first, as controls, individuals living in municipalities that
+implemented the reform for both cohorts (column 1, Table 3) and then using as controls
+individuals living in municipalities that kept the
+old system for both cohorts. As can be seen in
+
+Table 3, the results are remarkably similar to
+those presented in Table 2, which uses both
+comparison groups.
+In column 3 we show results when excluding
+the three big cities of Stockholm, Gothenburg,
+and Malmo to check whether the effects are
+different in the rest of the country, which is
+underrepresented in the reform. Again the
+
+422
+
+THE AMERICAN ECONOMIC REVIEW
+
+effects are very similar to those reported in
+Table 2.
+Finally, we estimated the effects using propensity score matching based on the 1948 cohort only. These estimates do not control for
+unobserved municipality characteristics but do
+not rely on additive (in logs) cohort effects since
+we compare only within cohort. The results,
+reported in detail in Meghir and Palme (2003),
+are less precise but display very similar
+patterns.
+Selective Mobility and the Impact of the Reform.—Families may have moved residences to
+choose suitable schooling for their children. We
+use the municipality of birth to assess the extent
+to which this may have affected the results we
+report. For some individuals it is not possible to
+know whether they would have been in the
+reform or not on the basis of their place of birth,
+mainly because the municipality borders were
+adjusted after the birth of our cohorts. Overall
+we were able to classify 87.3 percent of the
+sample. Of these, 90.1 percent did not change
+reform status from that indicated by place of
+birth. Of the 9.9 percent who we know changed
+status, 5.3 percent moved from a reform to a
+nonreform municipality and 4.6 percent moved
+in the other direction. Further details on this for
+the 1948 cohort are given in Meghir and Palme
+(2003).
+We can use the birth municipality in two
+ways. First we reestimate the model only for
+those who did not change status as a result of
+moving out of the municipality of their birth.
+The results are shown in column 4 of Table 3 and they are not significantly different
+from those in Table 2. Based on a Hausman
+test,22 for those with unskilled fathers the difference has a t-value of 0.47. For those whose
+fathers have a higher level of education, we still
+22
+The rationale for carrying out a Hausman test is as
+follows: (a) under the null hypothesis that movers are randomly selected, the estimation based on non-movers estimates only the same parameter but is inefficient relative to
+using the entire sample; (b) under the alternative, the estimates based on each of the samples will converge asymptotically to different points in the parameter space providing
+power to the test, because the samples are selected endogenously, but each in a different way.
+
+MARCH 2005
+
+get a negative effect but smaller in absolute
+value. The t-statistic for the difference from the
+estimate in Table 2 is 1.14, which is not significant at the 5-percent level.
+We also reestimated the model using instrumental variables, treating reform allocation as
+endogenous even conditional on the observables and the municipality fixed effects. The
+instruments are (a) whether we know the reform
+status or not based on the birth municipality;
+and (b) if we know the reform status, whether it
+is reform or non-reform. The instruments are
+highly significant with a p-value of zero, both
+overall and for the two subsamples of higher
+and lower education of the father. For those
+with unskilled fathers the point estimate is almost the same (column 5). For those with
+skilled fathers, however, the IV estimator is too
+imprecise, although it is still negative as in all
+other cases.23 Thus there is no strong evidence
+that mobility is a source of bias for these results.
+V. Conclusion
+
+The reform of the Swedish education system
+had important effects on the educational attainment and earnings of individuals. We establish
+a large increase in the share of students reaching
+the new compulsory level for the group with
+unskilled fathers and low ability. More interestingly, the reform led to an increase in schooling
+beyond the new compulsory level for individuals with higher ability and unskilled fathers.
+This may have helped increase intergenerational mobility by improving access beyond the
+new compulsory level. We also find that labor
+market earnings increased significantly for individuals with unskilled fathers; there are also
+indications, however, that earnings fell for individuals with higher-skilled fathers, indicating
+that the abolition of selection may have reduced
+the quality of education obtained by this group.
+Nevertheless, the reform improved on average
+both the educational attainment and the earnings of a large part of the population.
+23
+This is because of the combination of the limited
+mobility and the inability to classify a substantial number of
+individuals to reform/non-reform status using the municipality of birth.
